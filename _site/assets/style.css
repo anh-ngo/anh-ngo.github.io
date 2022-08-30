@@ -1,0 +1,260 @@
+@font-face {
+    font-family: 'DINdong';
+    src: url('assets/DINdong.woff2') format('woff2'),
+        url('assets/DINdong.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+:root {
+    --main-font: 'DINdong';
+    --font-size-0: 18px;
+    --margin-bottom: 50px;
+    --gap: 1%;
+    --usable-width: 95%;
+}
+
+* {
+    font-family: var(--main-font);
+    font-size: var(--font-size-0);
+    line-height: var(--font-size-0);
+    color: #206946;
+    font-weight: 500;
+    letter-spacing: 0.5px;
+}
+
+body {
+    width: var(--usable-width);
+    height: 100%;
+    background-color: #fafff5;
+}
+
+#content-wrapper {
+    width: 100%;
+    height: 100%;
+    padding: var(--gap);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: left;
+    transform: translate(var(--gap), 0);
+}
+
+#sidebar {
+    width: 10%;
+}
+
+#sidebar > .col {
+    width: 100%;
+    padding: 0;
+    margin: 0;
+}
+
+#content-container {
+    width: 85%;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: left;
+}
+
+#content-container > .col {
+    width: 50%;
+    margin: 0;
+    padding: 0;
+}
+
+#content-container > .col > .text-wrapper, #sidebar > .col > .text-wrapper {
+    margin: 0 0 var(--margin-bottom) 0;
+    padding: 0;
+}
+
+.col > .text-wrapper > h1 {
+    text-decoration: underline;
+    margin-bottom: var(--font-size-0);
+}
+
+.col > .text-wrapper > p {
+    margin-block-start: 0;
+}
+
+.col > .text-wrapper > ul {
+    padding-inline-start: 0;
+    margin-block-start: 0;
+    margin-block-end: 0;
+}
+
+.hidden {
+    display: none;
+}
+
+.visible-block {
+    display: block;
+}
+
+.visible-inline {
+    display: inline;
+}
+
+#footer {
+    position: fixed;
+    width: var(--usable-width);
+    bottom: var(--gap);
+    padding-left: var(--gap);
+    padding-right: var(--gap);
+    padding-bottom: var(--gap);
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: left;
+    transform: translate(var(--gap), 0);
+}
+
+.w-10 {
+    width: 10% !important;
+}
+
+.w-20 {
+    width: 20% !important;
+}
+
+.w-25 {
+    width: 25% !important;
+}
+
+.w-33 {
+    width: 33.33% !important;
+}
+
+.w-40 {
+    width: 40% !important;
+}
+
+.w-45 {
+    width: 45% !important;
+}
+
+.w-50 {
+    width: 50% !important;
+}
+
+.w-60 {
+    width: 60% !important;
+}
+
+.w-80 {
+    width: 80% !important;
+}
+
+.w-90 {
+    width: 100% !important;
+}
+
+.no-highlight {
+    user-select: none;
+}
+
+.to-right {
+    text-align: right;
+}
+
+.to-left {
+    text-align: left;
+}
+
+.col > img {
+    width: 100%;
+    height: auto;
+    margin-left: 0;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+
+@media (max-width: 700px) {
+
+    :root {
+        --main-font: 'DINdong';
+        --font-size-0: 15px;
+        --margin-bottom: 50px;
+        --gap: 1%;
+        --usable-width: 95%;
+    }
+
+    #content-wrapper {
+        width: 100%;
+        height: 100%;
+        padding: var(--gap);
+        display: flex;
+        flex-direction: column;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: left;
+        transform: translate(var(--gap), 0);
+    }
+
+    #content-container {
+        width: 100%;
+        display: flex;
+        flex-direction: column-reverse;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: left;
+        transform: translate(var(--gap), 0);
+    }
+
+    #content-container > .w-10, #content-container > .w-20, #content-container > .w-25, #content-container > .w-33, #content-container > .w-40, #content-container > .w-45, #content-container > .w-50, #content-container > .w-60, #content-container > .w-80, #content-container > .w-90 {
+        width: 90% !important;
+    }
+
+    #sidebar {
+        width: 100%;
+    }
+
+    #footer {
+        position: fixed;
+        width: var(--usable-width);
+        bottom: var(--gap);
+        padding-left: var(--gap);
+        padding-right: var(--gap);
+        padding-bottom: var(--gap);
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: space-between;
+        align-items: left;
+        transform: translate(var(--gap), 0);
+    }
+
+    #footer > .w-40 {
+        width: 100% !important;
+        margin: 0;
+        padding: 0;
+    }
+
+    #footer > .to-right {
+        text-align: left;
+    }
+
+    .mobile-hide {
+        display: none;
+    }
+
+    .col > img {
+        margin: 10px;
+        margin-left: 0;
+    }
+
+
+}
+
+
+
+
