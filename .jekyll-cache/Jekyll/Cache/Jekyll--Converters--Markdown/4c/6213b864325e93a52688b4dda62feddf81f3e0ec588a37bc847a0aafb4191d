@@ -1,0 +1,16 @@
+I"0<div id="content-container">
+  <div class="col w-45">
+    <div class="text-wrapper">
+      <p>Name of the project</p>
+      <p>*Name* is a project conducted during Physical Computing course at Aalto University.</p>
+      <p>The process was documented as I explored the possibility of electronics and interaction throughout the course of six weeks.</p>
+    </div>
+  </div>
+  <div class="col w-45">
+    <div class="img-wrapper">
+      <img src="/assets/img/physical-computing/02.png" alt="" />
+      <p>Hello Wallow My name is Anh</p>
+    </div>
+  </div>
+</div>
+:ET
