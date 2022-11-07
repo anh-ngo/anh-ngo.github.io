@@ -1,10 +1,4 @@
----
-layout: physical-computing
-title:  "Week 2"
-date:   2022-10-31
----
-
-<div id="content-container">
+I"�<div id="content-container">
   <div class="col w-45">
     <div class="text-wrapper">
       <p>1. THE PLAYFUL DRAWING TRUCK FROM SHAKE THAT BUTTON:</p>
@@ -14,20 +8,21 @@ date:   2022-10-31
     </div>
     <div class="text-wrapper">
       <p>2. RACING WITH A TILT SENSOR:</p>
-      <p>Concept: Top-down racing game using a beanie to control the movement of the car. In this game, players stand in front of a screen, wearing the beanie and moving their heads to race. A tilt sensor (accelerometer) is attached inside the beanie. The sensor can detect orientation and rate when one shifts the head in different directions.</p>
-      <p> Movements: As in a normal racing game, there are three basic movements — right, left, straight, and two functions — speed up and break. I think of the idea to use the tilt sensor that determines acceleration when a person moves his head. Basically, keep the head straight is moving forward. Tilting the head right and left works as moving right and left in the race. Tilting upward is speed up, while tilting backward is slow down and stops the car at one point. </p>
-      <p> Sensor measurement: When trying out the tilt sensor last week, I saw that acceleration can be read in X, Y, and Z axes. Shown in the images is how I think the LEFT/RIGHT and BACKWARD/UPWARD directions can be measured in two axes X and Z in this case. I wonder whether keeping one's head straight should be measured by one more axis. The idea is that when you keep your head straight, the information is not changing, and the car keeps moving. </p>
+      <p>The concept: Top-down racing game using a beanie to control the movement of the car. In this game, players stand in front of a screen, wearing the beanie and moving their heads to race. A tilt sensor (accelerometer) is attached inside the beanie. The sensor can detect orientation and rate when one shifts the head in different directions.</p>
+      <p> As in a normal racing game, there are three basic movements — right, left, straight, and two functions — speed up and break. I think of the idea to use the tilt sensor that determines acceleration when a person moves his head. Basically, keep the head straight is moving forward. Tilting the head right and left works as moving right and left in the race. Tilting upward is speed up, while tilting backward is slow down and stops the car at one point. </p>
+      <p> When trying out the tilt sensor last week, I saw that acceleration can be read in X, Y, and Z axes. Shown in the right image is how I think the LEFT/RIGHT and BACKWARD/UPWARD can be measured in two axes X and Z in this case. I wonder whether or not keeping one's head straight should be measured by another axe. The idea is that when you keep your head straight, the information is not changing, and the car keeps moving. </p>
     </div>
     </div>
     
   <div class="col w-45">
     <div class="img-wrapper">
-      <img src="{{site.baseurl}}/assets/img/physical-computing/week2/02.png" alt="">
+      <img src="/assets/img/physical-computing/week2/02.png" alt="" />
       <p>Img1. Two players race in front of a screen, wearing the racing beanies.</p>
     </div>
     <div class="img-wrapper">
-      <img src="{{site.baseurl}}/assets/img/physical-computing/week2/01.png" alt="">
+      <img src="/assets/img/physical-computing/week2/01.png" alt="" />
       <p>Img2. My thinking on how the tilt sensor can control car directions and movements in this game.</p>
     </div>
   </div>
 </div>
+:ET
