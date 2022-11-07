@@ -1,25 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Anh Ngo</title>
-    <link rel="stylesheet" href="/assets/style.css">
-</head>
-
-<body>
-
-    <div id="content-wrapper">
-        <div id="sidebar">
-            <div class="col">
-                <div class="text-wrapper">
-                    <p><a href="/physical-computing">{return}</a>
-                </div>
-            </div>
-        </div>
-
-        <div id="content-container">
+I"%
+<div id="content-container">
   <div class="col w-45">
     <div class="text-wrapper">
       <p>1. THE PLAYFUL DRAWING TRUCK FROM SHAKE THAT BUTTON:</p>
@@ -31,30 +11,15 @@
       <p>2. RACING WITH A TILT SENSOR:</p>
       <p>The concept: Top-down racing game using a beanie to control the movement of the car. Players stand in front of a screen, wearing the beanie and moving their heads to race. A tilt sensor (accelerometer) is attached inside the beanie. The sensor can detect orientation and rate when one shifts the head in different directions.</p>
       <p> As in a racing game, there are three basic movements — right, left, straight, and two functions — speed up and break. I think of the idea to use the tilt sensor that determines acceleration when a person moves his head. Basically, keep the head straight is moving forward. Tilting the head right and left works as moving right and left in the race. Tilting upward is speed up, while tilting backward is slow down and stop at one point. </p>
-      <p> When trying out the tilt sensor last week, I saw that acceleration can be read in X, Y, and Z axes. Shown in the right image is how I think the measurement can happen in two axes in this concept. I suspect it can be done by changing the x and z parameters in the Accelerometer Demo code that we tested last week with the MSA301 sensor. </p>
+      <p> When trying out the tilt sensor last week, I saw that acceleration can be read in X, Y, and Z axes. Shown in the right image is how I think the measurement can happen in two axes in this concept. I suspect it can be done by changing the x and z parameters in the Accelerometer Demo that we tested last week with the MSA301 sensor. </p>
     </div>
     </div>
     
   <div class="col w-45">
     <div class="img-wrapper">
-      <img src="/assets/img/physical-computing/week2/02.png" alt="" />
-      <p>Img1. Two players race in front of a screen, wearing the racing beanies.</p>
-    </div>
-    <div class="img-wrapper">
-      <img src="/assets/img/physical-computing/week2/01.png" alt="" />
-      <p>Img2. My thinking on how the tilt sensor can control car directions and movements in this game.</p>
+      <img src="/assets/img/physical-computing/02.png" alt="" />
+      <p></p>
     </div>
   </div>
 </div>
-
-
-    </div>  
-
-    <div id="footer">
-        <div id="left" class="col w-20 mobile-hide"><a>Xin Chào</a></div>
-        <div id="centre" class="col w-40 to-right"><a href="mailto: thuyanhngo259@gmail.com">Email &#8599;&#xFE0E;</a>&nbsp; <a href="https://linkedin.com/in/anhngo-audrey" target="_blank">Linkedin &#8599;&#xFE0E;</a>&nbsp; <a href="https://www.instagram.com/aanh.ngoo/?hl=en" target="_blank">Instagram &#8599;&#xFE0E;</a></div>
-        <div id="right" class="col w-20 to-right mobile-hide">@ Anh Ngo 2022</div>
-    </div>
-
-    <script src="assets/main.js"></script>
-</body>
+:ET

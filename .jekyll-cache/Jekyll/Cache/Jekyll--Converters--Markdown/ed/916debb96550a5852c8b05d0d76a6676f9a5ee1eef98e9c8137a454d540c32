@@ -1,25 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Anh Ngo</title>
-    <link rel="stylesheet" href="/assets/style.css">
-</head>
-
-<body>
-
-    <div id="content-wrapper">
-        <div id="sidebar">
-            <div class="col">
-                <div class="text-wrapper">
-                    <p><a href="/physical-computing">{return}</a>
-                </div>
-            </div>
-        </div>
-
-        <div id="content-container">
+I"€<div id="content-container">
   <div class="col w-45">
     <div class="text-wrapper">
       <p>2 LEDS 1 SWITCH</p>
@@ -46,15 +25,4 @@
   </div>
 </div>
 
-
-
-    </div>  
-
-    <div id="footer">
-        <div id="left" class="col w-20 mobile-hide"><a>Xin Ch√†o</a></div>
-        <div id="centre" class="col w-40 to-right"><a href="mailto: thuyanhngo259@gmail.com">Email &#8599;&#xFE0E;</a>&nbsp; <a href="https://linkedin.com/in/anhngo-audrey" target="_blank">Linkedin &#8599;&#xFE0E;</a>&nbsp; <a href="https://www.instagram.com/aanh.ngoo/?hl=en" target="_blank">Instagram &#8599;&#xFE0E;</a></div>
-        <div id="right" class="col w-20 to-right mobile-hide">@ Anh Ngo 2022</div>
-    </div>
-
-    <script src="assets/main.js"></script>
-</body>
+:ET

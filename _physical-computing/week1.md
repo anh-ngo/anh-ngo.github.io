@@ -16,7 +16,7 @@ date:   2022-10-24
       then the button was pressed or released. <br>
       - If the button was pressed, increase the counter.<br>
       - If the button was released, nothing happens with the counter.<br> 
-      <p>Excited at the sucessful attempt, I added the forth step where both LEDs blink. </p></p>
+      <p>Excited at the result, I added the forth step where both LEDs blink. </p></p>
     </div>
   </div>
   <div class="col w-45">
@@ -30,3 +30,4 @@ date:   2022-10-24
     </div>
   </div>
 </div>
+
