@@ -5,7 +5,7 @@ date:   2022-11-14
 ---
 
 <div id="content-container">
-  <div class="col w-45">
+ <div class="col w-45">
     <div class="text-wrapper">
       <p>FINAL PROJECT IDEA: A WEARABLE OF MEMORIES</p>
       <p>The concept: For the final project, I want to explore an interactive installation that people can manipulate the patterns “printed” on a wearable item through touches.</p>
@@ -19,9 +19,8 @@ date:   2022-11-14
         <p>— Is it possible to project onto more than 1 location at the same time? e.g. Two hands touching different places of the fabric.</p>
         <p>— Only project patterns when someone put pressure onto the fabric. The more pressure, the wider/ expanded/ clearer the output.</p>
     </div>
-  </div>
-</div>
-    
+    </div>
+
   <div class="col w-45">
     <div class="img-wrapper">
       <img src="{{site.baseurl}}/assets/img/physical-computing/week3/1.jpeg" alt="">
@@ -36,4 +35,5 @@ date:   2022-11-14
       <p>Img3. My attempt to make a soft pressure sensor</p>
     </div>
   </div>
+
 </div>
