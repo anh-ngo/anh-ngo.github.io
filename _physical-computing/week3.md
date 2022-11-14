@@ -32,7 +32,7 @@ date:   2022-11-14
       <p>Img2. How it possibly works</p>
     </div>
     <div class="img-wrapper">
-      <img src="{{site.baseurl}}/assets/img/physical-computing/week3/3.jpeg" alt="">
+      <img src="{{site.baseurl}}/assets/img/physical-computing/week3/3.jpg" alt="">
       <p>Img3. My attempt to make a soft pressure sensor</p>
     </div>
   </div>
