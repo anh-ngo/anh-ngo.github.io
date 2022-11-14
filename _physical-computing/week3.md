@@ -12,7 +12,7 @@ date:   2022-11-14
       <p>The inspiration comes from electronic textile, with soft materials becoming information inputs for interesting interactions. With visual projection as the output, I want to explore an interactive way to personalise and connect with textiles: using my own photos to create patterns, then “printing” back onto a piece of clothing. Is it a way to project our memories on clothes? Traditionally, textile printing has certain terms such as overlap and chain dot. I'm curious to try creating digital versions of these physical printing techniques by coding.</p>
     <p>Considerations:</p>
         <p>— Electronic: Arduino, sensors</p>
-        <p>— Visual: Arduino, sensors</p>
+        <p>— Visual: Processing</p>
         <p>— Setup: a projector + a white piece of clothing</p>
     <p>Questions:</p>
         <p>— How to project output on the exact location where the person touches the fabric?</p>
