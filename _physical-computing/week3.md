@@ -20,7 +20,6 @@ date:   2022-11-14
         <p>— Only project patterns when someone put pressure onto the fabric. The more pressure, the wider/ expanded/ clearer the output.</p>
     </div>
     </div>
-
   <div class="col w-45">
     <div class="img-wrapper">
       <img src="{{site.baseurl}}/assets/img/physical-computing/week3/1.jpeg" alt="">
@@ -35,5 +34,4 @@ date:   2022-11-14
       <p>Img3. My attempt to make a soft pressure sensor</p>
     </div>
   </div>
-
 </div>
