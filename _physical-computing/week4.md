@@ -1,6 +1,6 @@
 ---
 layout: physical-computing
-title:  "Week 3"
+title:  "Week 4"
 date:   2022-11-21
 ---
 
@@ -10,11 +10,12 @@ date:   2022-11-21
       <p>SENSOR COMMUNICATION</p>
       <p>First attempts to visualize the feedback on Processing, mapped with the pressure sensors' values.</p>
     </div>
-    </div>
-  <div class="col w-45">
+ </div>
+
+<div class="col w-45">
     <div class="img-wrapper">
-      <video> <source src="{{site.baseurl}}/assets/img/physical-computing/week4/communication.mp4" type="video/mp4"></video>
-      <p>Img1. The concept</p>
+    <iframe width="100%" src="https://youtu.be/o16jvIs89LU">
+    </iframe>
     </div>
-  </div>
+</div>
 </div>
