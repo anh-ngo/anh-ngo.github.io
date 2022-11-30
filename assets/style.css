@@ -89,7 +89,6 @@ body {
 }
 
 .col > .text-wrapper > h1 {
-    /*text-decoration: underline;*/
     font-weight: bold;
     margin-bottom: var(--font-size-0);
 }
@@ -227,6 +226,10 @@ body {
 a {
     text-decoration: none;
     color: inherit;
+}
+
+.bold {
+    font-weight: bold !important;
 }
 
 

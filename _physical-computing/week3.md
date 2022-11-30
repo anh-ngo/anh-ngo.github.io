@@ -7,7 +7,7 @@ date:   2022-11-14
 <div id="content-container">
  <div class="col w-45">
     <div class="text-wrapper">
-      <h2>Final project idea: A Wearable of Memories</h2>
+      <p class="bold">Final project idea: A Wearable of Memories</p>
       <p>The concept: For the final project, I want to explore an interactive installation that people can manipulate the patterns “printed” on a wearable item through touches.</p>
       <p>The inspiration comes from electronic textile, with soft materials becoming information inputs for interesting interactions. With visual projection as the output, I want to explore an interactive way to personalise and connect with textiles: using my own photos to create patterns, then “printing” back onto a piece of clothing. Is it a way to project our memories on clothes? Traditionally, textile printing has certain terms such as overlap and chain dot. I'm curious to try creating digital versions of these physical printing techniques by coding.</p>
     <h1>Considerations:</h1>

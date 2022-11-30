@@ -1,7 +1,13 @@
-I"<div id="content-container">
+---
+layout: physical-computing
+title:  "Week 5 & 6"
+date:   2022-11-30
+---
+
+<div id="content-container">
  <div class="col w-45">
     <div class="text-wrapper">
-      <p>SENSOR COMMUNICATION</p>
+      <p class="bold">Explore visualisations with multiple sensors</p>
       <p>Visualize the data mapped with the pressure sensors' values, designed in Processing.
       </p>
       <p>I tried to explore initial possibilities for my final project. In this demo I read two pressure sensors from Arduino. I then mapped the values to the parameters in the Processing's code to create animations with rotation, color, distance, and size. I explored some compositions using rectangles, lines, and circles. This exercise allowed me to dig a bit deeper into the sensors that I'm using and understand better what's possible in terms of visualisation.</p>
@@ -10,8 +16,7 @@
 
 <div class="col w-45">
     <div class="img-wrapper">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/o16jvIs89LU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/o16jvIs89LU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </div>
 </div>
-:ET
