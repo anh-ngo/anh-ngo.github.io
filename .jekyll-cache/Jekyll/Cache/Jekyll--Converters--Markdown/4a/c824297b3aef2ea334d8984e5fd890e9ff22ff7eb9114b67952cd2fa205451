@@ -1,10 +1,4 @@
----
-layout: physical-computing
-title:  "Week 4"
-date:   2022-11-21
----
-
-<div id="content-container">
+I"<div id="content-container">
  <div class="col w-45">
     <div class="text-wrapper">
       <h2>Sensor Communication</h2>
@@ -16,7 +10,8 @@ date:   2022-11-21
 
 <div class="col w-45">
     <div class="img-wrapper">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/o16jvIs89LU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/o16jvIs89LU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
     </div>
 </div>
 </div>
+:ET

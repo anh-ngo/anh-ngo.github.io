@@ -1,28 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Anh Ngo</title>
-    <link rel="stylesheet" href="/assets/style.css">
-</head>
-
-<body>
-
-    <div id="content-wrapper">
-        <div id="sidebar">
-            <div class="col">
-                <div class="text-wrapper">
-                    <p><a href="/physical-computing">{return}</a>
-                </div>
-            </div>
-        </div>
-
-        <div id="content-container">
+I"›<div id="content-container">
   <div class="col w-45">
     <div class="text-wrapper">
-      <h2>2 LEDs 1 switch</h2>
+      <h2>2 LEDS 1 Switch</h2>
       <p>How to make a switch control multiple LEDs. In this assignment, pressing the button turns on the two LEDs one by one, then turns both off.</p>
       <p>Initially, I made some failing attempts like both LEDs kept blinking until I pressed the button, then they stably turned on, or both LEDs turned on whenever pressed instead of one by one. The key learning, for me, is to figure out how to make the <i>counter</i> function only increase by one when the button is pressed. This way I can give the <i>if</i> conditions that control when the LEDS turn on/off with the button. Looking at Matti's <a href="https://learn.newmedia.dog/tutorials/arduino-and-electronics/arduino/digital-io-rising-or-falling-edge/example">example</a>, the key is to check when the button is pressed and when it is not. </p>
       <p>The logic that helps me to understand is below:
@@ -46,15 +25,4 @@
   </div>
 </div>
 
-
-
-    </div>  
-
-    <div id="footer">
-        <div id="left" class="col w-20 mobile-hide"><a>Xin Ch√†o</a></div>
-        <div id="centre" class="col w-40 to-right"><a href="mailto: thuyanhngo259@gmail.com">Email &#8599;&#xFE0E;</a>&nbsp; <a href="https://linkedin.com/in/anhngo-audrey" target="_blank">Linkedin &#8599;&#xFE0E;</a>&nbsp; <a href="https://www.instagram.com/aanh.ngoo/?hl=en" target="_blank">Instagram &#8599;&#xFE0E;</a></div>
-        <div id="right" class="col w-20 to-right mobile-hide">@ Anh Ngo 2022</div>
-    </div>
-
-    <script src="assets/main.js"></script>
-</body>
+:ET
