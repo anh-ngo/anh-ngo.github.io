@@ -1,0 +1,22 @@
+I"�<div id="content-container">
+ <div class="col w-45">
+    <div class="text-wrapper">
+      <p class="bold">Explore visualisations with multiple sensors</p>
+      <p>In these two weeks, I made progress in adding more sensors and visualizing different patterns from basic geometric shapes on Processing. During the exploration, I have faced constant reconsideration in the concept as I also imagined how to make the interaction more interesting. I gradually finalized the idea of creating a textile interface that contains several mended touchpoints. With this idea, I am curious about the relationship between physical touching and digital visualisation that overlays on top of each other.
+      </p>
+      <p> The learning for me is:</p>
+       <p>— I got to practice and evaluate my understanding of coding, in combination with the Processing course that I am taking. I so far have used random() to generate unexpectedly interesting patterns out of basic shapes like rectangles and circles (Img 1).</p>
+       <p>— The process of working with soft materials opens up my new interest, even though I have just scratched the surface of electronic textiles. There is something captivating in using soft materials to reimagine how we relate with the physical world.</p>
+       <p>— I realized a good learning approach for myself: start with the basic and expand from there. Obvious, right? I've been used to working with briefs and moodboards that influence how the final outcomes look like. However, with physical computing, I have less control. Everyday I discovered something new than what I did yesterday, even with just small changes to the code or adding a new sensor. Choosing a sensor and a material to explore further works well for me as a way to learn physical computing. I will remind myself of this approach when it comes to learning — always leave room for improvement and surprise. </p>
+       <p>What's next: I will project the visuals on a white surface. I made some records on how the visual looks like with presses and projection. </p>
+    </div>
+ </div>
+
+<div class="col w-45">
+    <div class="img-wrapper">
+      <img src="/assets/img/physical-computing/week5/image.png" alt="" />
+      <p>img 1. Pattern attempts with the random function</p>
+    </div>
+</div>
+</div>
+:ET

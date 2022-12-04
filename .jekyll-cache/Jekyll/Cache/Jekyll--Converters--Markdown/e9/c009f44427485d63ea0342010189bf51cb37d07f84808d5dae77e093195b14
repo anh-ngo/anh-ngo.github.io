@@ -1,10 +1,4 @@
----
-layout: physical-computing
-title:  "Week 5 & 6"
-date:   2022-11-30
----
-
-<div id="content-container">
+I"�<div id="content-container">
  <div class="col w-45">
     <div class="text-wrapper">
       <p class="bold">Explore visualisations with multiple sensors</p>
@@ -13,19 +7,16 @@ date:   2022-11-30
       <p class="bold"> The learning so far:</p>
        <p>— I got to practice and evaluate my understanding of coding, in combination with the Processing course that I am taking. I so far have used random() to generate unexpectedly interesting patterns out of basic shapes like rectangles and circles (Img 1).</p>
        <p>— The process of working with soft electronic materials opens up my new interest, even though I have just scratched the surface of electronic textiles. There is something captivating in using soft materials to reimagine how we relate with the physical world.</p>
-       <p class="bold">Projection and what's next:</p> 
-       <p>I used a white wall to project the visuals on a white wall (Img 2). Doing this gave a different perspective on the idea than looking at the laptop screen. Right now, I have two main visual elements: background and foreground. The background contains randomized patterns from rectangles and circles, while the foreground includes organic, expressive shapes. Next, I will need to move on with the construction. Then, I can continue fixing up the code, but without the actual fabric itself, it's hard to imagine what the interaction would be like.  </p>
+       <p class="bold">Prototyping:</p> 
+       <p>I projected the visuals on a white surface (Img 2). Right now there is a background option, which are vertical lines overlaying each other. There are organic shapes in the foreground, which will be projected on the exact point where one presses. Projecting helps me to imagine better the interaction between pressing and projecting and if I can improve the codes and the layouts for more intuitive experience. </p>
     </div>
  </div>
 
 <div class="col w-45">
     <div class="img-wrapper">
-      <img src="{{site.baseurl}}/assets/img/physical-computing/week5/image.png" alt="">
+      <img src="/assets/img/physical-computing/week5/image.png" alt="" />
       <p>img 1. Pattern attempts with the random function</p>
     </div>
-    <div class="img-wrapper">
-      <img src="{{site.baseurl}}/assets/img/physical-computing/week5/image1.JPG" alt="">
-      <p>img 2. Sketches of the fabric interface idea</p>
-    </div>
 </div>
 </div>
+:ET

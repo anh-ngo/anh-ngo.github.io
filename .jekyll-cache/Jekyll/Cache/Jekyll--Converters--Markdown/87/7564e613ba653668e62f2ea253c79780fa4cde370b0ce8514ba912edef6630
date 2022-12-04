@@ -1,0 +1,17 @@
+I"Â<div id="content-container">
+ <div class="col w-45">
+    <div class="text-wrapper">
+      <p class="bold">Explore visualisations with multiple sensors</p>
+      <p>In these two weeks, I made progress in adding more sensors and visualizing different patterns from basic geometric shapes on Processing. During the exploration, I gradually shaped a clearer idea of what the final installation would be like. The process has not been linear. I have faced constant changes in the concept as I also imagined how to make the interaction more interesting.
+      </p>
+      <p> The learning is cultivating for me -- I got to practice and evaluate my understanding of coding, in combination with the Processing course that I am taking. The process of working with soft materials is also captivating, even though I have just scratched the surface of electronic textiles.</p>
+    </div>
+ </div>
+
+<div class="col w-45">
+    <div class="img-wrapper">
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/o16jvIs89LU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+    </div>
+</div>
+</div>
+:ET

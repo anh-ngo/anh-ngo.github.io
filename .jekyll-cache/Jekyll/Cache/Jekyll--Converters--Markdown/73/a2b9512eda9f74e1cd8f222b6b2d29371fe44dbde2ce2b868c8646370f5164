@@ -1,10 +1,4 @@
----
-layout: physical-computing
-title:  "Week 5 & 6"
-date:   2022-11-30
----
-
-<div id="content-container">
+I"]<div id="content-container">
  <div class="col w-45">
     <div class="text-wrapper">
       <p class="bold">Explore visualisations with multiple sensors</p>
@@ -20,12 +14,9 @@ date:   2022-11-30
 
 <div class="col w-45">
     <div class="img-wrapper">
-      <img src="{{site.baseurl}}/assets/img/physical-computing/week5/image.png" alt="">
+      <img src="/assets/img/physical-computing/week5/image.png" alt="" />
       <p>img 1. Pattern attempts with the random function</p>
     </div>
-    <div class="img-wrapper">
-      <img src="{{site.baseurl}}/assets/img/physical-computing/week5/image1.JPG" alt="">
-      <p>img 2. Sketches of the fabric interface idea</p>
-    </div>
 </div>
 </div>
+:ET
