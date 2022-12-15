@@ -1,22 +1,27 @@
 ---
 layout: physical-computing
-title:  "Week 4"
+title:  "4. Sensor Communication"
 date:   2022-11-21
 ---
 
 <div id="content-container">
  <div class="col w-45">
     <div class="text-wrapper">
-      <p class="bold">Sensor Communication</p>
-      <p>Visualize the data mapped with the pressure sensors' values, designed in Processing.
+      <p class="bold">WEEK 4 — Sensor Communication</p>
+      <p>This week we learned how to communicate data read from the sensors.
       </p>
-      <p>I tried to explore initial possibilities for my final project. In this demo I read two pressure sensors from Arduino. I then mapped the values to the parameters in the Processing's code to create animations with rotation, color, distance, and size. I explored some compositions using rectangles, lines, and circles. This exercise allowed me to dig a bit deeper into the sensors that I'm using and understand better what's possible in terms of visualisation.</p>
+      <p>Based on last week's proposal, I tried to explore pressure sensors. In this demo I read two pressure sensors from Arduino. I then mapped the values to the parameters in the Processing's code to create animations with rotation, color, distance, and size. I explored some compositions using rectangles, lines, and circles. This exercise allowed me to dig a bit deeper into the sensors that I'm using and understand better what's possible in terms of visualisation.</p>
+      <h1>Devices:</h1>
+      <p>— Pressure sensors <a href="https://www.instructables.com/Flexible-Fabric-Pressure-Sensor/">( I followed this instruction&#8599;&#xFE0E;</a>&nbsp;)</p>
+      <p>— Arduino and breadboard</p>
+      <p>— 10K Resistors</p>
+      <p>— Aligator clips and electric wires</p>
     </div>
  </div>
 
 <div class="col w-45">
     <div class="img-wrapper">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/o16jvIs89LU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe width="500" height="315" src="https://www.youtube.com/embed/o16jvIs89LU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </div>
 </div>
 </div>

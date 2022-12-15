@@ -1,0 +1,33 @@
+I"�<div id="content-container">
+ <div class="col w-45">
+    <div class="text-wrapper">
+      <p class="bold">WEEK 7: Connect and Build</p>
+      <h1>My to-do lists for the week as followed:</h1>
+      <p>— Build the soft materials</p>
+      <p>— Build the hardwares</p>
+      <p>— Connect the hardwares and softwares</p>
+      <p>— Set up with the projector</p>
+      <p>— Debug and finalize the code</p>
+      <h1>For the soft materials:</h1>
+      <p>I find stitching often takes geometric shapes. Hence, I decided to embroider the pressing buttons, using methods from the inspirational book by Arounna Khounnoraj. The buttons were embroidered in the shapes that resemble the patterns projected on the fabric.</p>
+      <h1>For the hardware:</h1>
+      <p>Build an electronic board that connects with Arduino.</p>
+      <h1>For the code:</h1>
+      <p>Map values from Aruino to Processing</p>
+    </div>
+ </div>
+
+<div class="col w-45">
+    <div class="img-wrapper">
+      <img src="/assets/img/physical-computing/week7/02.png" alt="" />
+      <img src="/assets/img/physical-computing/week7/05.png" alt="" />
+      <img src="/assets/img/physical-computing/week7/08.png" alt="" />
+      <p>img 1. Patterns coded on Processing</p>
+    </div>
+    <div class="img-wrapper">
+      <img src="/assets/img/physical-computing/week7/08.png" alt="" />
+      <p>img 1. Patterns coded on Processing</p>
+    </div>
+</div>
+</div>
+:ET

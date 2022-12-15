@@ -17,7 +17,7 @@
 :root {
     --main-font: 'authentic-sans';
     --font-size-0: 1rem;
-    --margin-bottom: 30px;
+    --margin-bottom: 20px;
     --gap: 1%;
     --usable-width: 95%;
 }
@@ -26,15 +26,20 @@
     font-family: var(--main-font);
     font-size: 15px;
     line-height: 1.1em;
-    color: #206946;
     letter-spacing: 0.5px;
 }
 
 body {
     width: var(--usable-width);
     height: 100%;
-    background-color: #fafff5;
+    background-color: #ffffff;
+    color: #206946;
     overflow: none;
+}
+
+.caption {
+    color:#6fa28a;
+    margin-bottom: 0px;
 }
 
 #content-wrapper {
@@ -93,11 +98,6 @@ body {
     margin-bottom: var(--font-size-0);
 }
 
-.col > .text-wrapper > h2 {
-    margin-block-start: 0;
-    font-weight: bold;
-}
-
 .col > .text-wrapper > p {
     margin-block-start: 0;
     font-weight: 30;
@@ -121,6 +121,10 @@ body {
 
 .col > .img-wrapper > p {
     margin-top: 2px;
+}
+
+.col > .img-wrapper > p:last-of-type {
+    margin-bottom: 50px;
 }
 
 .hidden {
