@@ -20,6 +20,8 @@ date:   2022-12-08
       <p>To connect the sensors with Arduino, I built an electric board that can directly stick on top of the Arduino (Img 2). I used a 2-pin connector for each pair of wires, resulting in 05 wire units. For each unit, a wire connects to 5V, while the other connects to an analog pin. The overall circuit includes 05 analog pins (inputs for 05 sensors), 05 resistors, 5V, and GRD.</p>
       <h1>Map the sensors' values:</h1>
       <p>I added the sensors as inputs in Arduino IDE. I then mapped the sensors' values from Arduino to Processing, which determines the parameters of the visualisation in Processing (Img 3). I also set a timer that automatically resets the canvas after 10 seconds of the last press. For reference, access my codes on <a href="https://github.com/anh-ngo/physical-computing.git">Github&#8599;&#xFE0E;</a>&nbsp;</p>
+      <h1>Set up:</h1>
+      <p style="margin-bottom: 50px;">The setup is simple — a table, a fabric, and a projector (Img 4). The fabric is 70x55cm, hence I used a black 80x80x90cm stall. The computer and Arduino were hidden under the stall, while the projector was hooked on the ceiling. I then trimmed the fabric's edges, making sure that the projection would stay neatly inside the fabric. Special thanks to Matti for helping me set this up.</p>
     </div>
  </div>
 
@@ -32,6 +34,8 @@ date:   2022-12-08
       <p>Img 2. The electronic board that connects directly to the Arduino</p>
       <img src="{{site.baseurl}}/assets/img/physical-computing/week7/06.png" alt="">
       <p>Img 3. Testing with all parts connected</p>
+      <img src="{{site.baseurl}}/assets/img/physical-computing/week7/07.png" alt="">
+      <p>Img 4. Final setup</p>
     </div>
     <div class="img-wrapper">
 </div>
