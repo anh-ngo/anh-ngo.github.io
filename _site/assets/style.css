@@ -42,6 +42,10 @@ body {
     margin-bottom: 0px;
 }
 
+#home-link {
+    border: none !important;
+}
+
 #content-wrapper {
     position: fixed;
     width: 100%;
@@ -230,6 +234,7 @@ body {
 a {
     text-decoration: none;
     color: inherit;
+    /*order-bottom: 1px dotted #6fa28a;*/
 }
 
 .bold {
@@ -300,6 +305,7 @@ a {
         justify-content: space-between;
         align-items: left;
         transform: translate(var(--gap), 0);
+        background-color: #FFFFFF;
     }
 
     #footer > .w-40 {
