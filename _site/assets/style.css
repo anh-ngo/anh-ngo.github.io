@@ -276,7 +276,7 @@ a {
 
     #content-container > .w-10, #content-container > .w-20, #content-container > .w-25, #content-container > .w-33, #content-container > .w-40, #content-container > .w-45, #content-container > .w-50, #content-container > .w-60, #content-container > .w-80, #content-container > .w-90 {
         width: 100% !important;
-        overflow: scroll !important;
+        overflow: scroll;
     }
 
     #sidebar {
