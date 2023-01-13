@@ -291,6 +291,10 @@ a {
         background-color: #ffffff;
     }
 
+    .img-wrapper{
+        overflow: scroll;
+    }
+
     #contact-links {
         padding: 10px;
         display: flex;
