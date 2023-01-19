@@ -255,7 +255,7 @@ a {
     }
 
     #content-container {
-        position: fixed;
+        position: absolute;
         top: 50px;
         width: 90%;
         height: auto;
