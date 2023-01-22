@@ -1,0 +1,61 @@
+---
+permalink: /embodied-interaction
+---
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Anh Ngo</title>
+    <link rel="stylesheet" href="{{site.baseurl}}/assets/style.css">
+</head>
+
+<body>
+
+    <div id="content-wrapper">
+        <div id="sidebar">
+            <div class="col">
+                <div class="text-wrapper">
+                    <a class="bold" href="{{site.baseurl}}/">Anh Ngo</a>
+                </div>
+            </div>
+        </div>
+
+        <div id="content-container">
+            <div class="col w-45">
+                <div class="text-wrapper">
+                    <p class="bold">Embodied Interaction</p>
+                    <p class="caption">Finland &#8226; 2023</p>
+                    <br>
+                    <p>Documentation of my process in the Embodied Interaction course at Aalto University</p>
+                </div>
+                <div class="text-wrapper">
+                    <h1>The process:</h1>
+                    {% assign weeks =  site.embodied-interaction %}
+                    
+                    {% for week in weeks %}
+                        <a href="{{week.url}}">{{week.title}}</a><br>
+                    {% endfor %}
+
+                </div>
+            </div>
+            <div class="col w-45">
+                <div class="img-wrapper">
+                </div>
+            </div>
+        </div>
+    </div>  
+
+    <div id="footer">
+        <div id="contact-links">
+          <div class="col w-40 to-left"><a href="mailto: thuyanhngo259@gmail.com">Email &#8599;&#xFE0E;</a>&nbsp;</div>
+          <div class="col w-40 to-left"><a href="https://www.linkedin.com/in/anh-nnt?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BE9acgaKBRRGhNRVvgQtdbQ%3D%3D" target="_blank">LinkedIn &#8599;&#xFE0E;</a>&nbsp;</div>
+          <div class="col w-40 to-left"><a href="https://www.instagram.com/aanh.ngoo/?hl=en" target="_blank">Instagram &#8599;&#xFE0E;</a></div>
+        </div> 
+          <div class="to-left mobile-hide">@ Anh Ngo 2022</div>
+    </div>
+
+    <script src="assets/main.js"></script>
+</body>

@@ -17,3 +17,6 @@ collections:
   physical-computing:
     output: true
     permalink: /physical-computing/:path/
+  embodied-interaction:
+    output: true
+    permalink: /embodied-interaction/:path/
