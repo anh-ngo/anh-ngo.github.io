@@ -16,7 +16,7 @@
 
 :root {
     --main-font: 'authentic-sans';
-    --font-size-0: 1rem;
+    --font-size-0: 1.6rem;
     --margin-bottom: 20px;
     --gap: 1%;
     --usable-width: 95%;
@@ -222,6 +222,12 @@ body {
     margin-left: 0;
 }
 
+a > img {
+    width: 100%;
+    height: auto;
+    margin-left: 0;
+}
+
 a {
     /*border-bottom: 1px dotted #6fa28a;*/
     color: inherit;
@@ -255,7 +261,7 @@ a {
     }
 
     #content-container {
-        position: fixed;
+        position: absolute;
         top: 50px;
         width: 90%;
         height: auto;
