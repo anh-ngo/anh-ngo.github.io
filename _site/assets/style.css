@@ -99,7 +99,7 @@ body {
 
 .col > .text-wrapper > h1 {
     font-weight: bold;
-    margin-bottom: var(--font-size-0);
+    /*margin-bottom: var(--font-size-0);*/
 }
 
 .col > .text-wrapper > p {
