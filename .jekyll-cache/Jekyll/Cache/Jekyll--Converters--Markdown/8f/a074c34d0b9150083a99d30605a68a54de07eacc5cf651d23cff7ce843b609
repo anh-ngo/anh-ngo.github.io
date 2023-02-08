@@ -1,10 +1,4 @@
----
-layout: embodied-interaction
-title:  "1. Gesture Assignment"
-date:   2023-01-21
----
-
-<div id="content-container">
+I"R	<div id="content-container">
 
   <div class="col w-45">
     <div class="text-wrapper">
@@ -18,9 +12,10 @@ date:   2023-01-21
 
   <div class="col w-45">
     <div class="img-wrapper">
-    <img src="{{site.baseurl}}/assets/img/embodied-interaction/1.png" alt="">
-    <img src="{{site.baseurl}}/assets/img/embodied-interaction/02.png" alt="">
+    <img src="/assets/img/embodied-interaction/1.png" alt="" />
+    <img src="/assets/img/embodied-interaction/02.png" alt="" />
     </div>
   </div>
 
 </div>
+:ET
