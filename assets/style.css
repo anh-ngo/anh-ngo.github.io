@@ -23,7 +23,7 @@
 }
 
 * {
-    font-family: --main-font;
+    font-family: var(--main-font);
     font-size: 16px;
     line-height: 1.2em;
     letter-spacing: 0.2px;
