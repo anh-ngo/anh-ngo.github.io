@@ -1,0 +1,24 @@
+I"#<div id="content-container">
+  <div class="col w-45">
+    <div class="text-wrapper">
+      <p class="bold">Final project proposal</p>
+      <p class="caption">Last updated: 7 Mar 2023</p>
+      <p style="font-style: italic">"The table has always been generative. Once that meant forms of domesticity and labor and was suffocating on those same terms. Women served the table, though possession was a different matter. Then tentatively, around it, they began to stitch stories into quilts and share them out loud, in oral tradition. Through such acts of togetherness, women made their mark, proffered new perspectives, shared knowledge and offered counsel."</p>
+      <h1>An evolving thinking towards table as a generative and interactive space:</h1>
+      <p>Since my physical computing project, I have been </p>
+      <h1> How does it look like? How does it sound like? How does it feel like?</h1>
+      <p>A person is making banana bread (Why? Easy and universal recipe). The cooking setting: A camera attached on the person head, tracking hand movements. A screen on the side showing the user interface, including steps in the recipe and feedback on the process.</p>
+      <h1>How may it be done?</h1>
+      <p>Hand tracking camera. Gesture recognisation using ML. UI design.</p>
+      <h1>Why did I think of this idea?</h1>
+      <p>When it comes to embodied interaction, my interests are immersive experiences into everyday life. I imagine to do something with physical objects and body movements, thus I narrow down the scope into body tracking and gesture.</p>
+      <h1>Some references (artworks/projects that are similar to what you would like to do)</h1>
+      <p style="margin-bottom: 50px;">The last paragrapj</p>
+    </div>
+  </div>
+  <div class="col w-45">
+    <div class="img-wrapper">
+    </div>
+  </div>
+</div>
+:ET
