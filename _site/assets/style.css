@@ -123,6 +123,11 @@ body {
     margin-bottom: 0;
 }
 
+.col > .img-wrapper > video {
+    width: 100%;
+    margin-bottom: 0;
+}
+
 .col > .img-wrapper > p {
     margin-top: 2px;
 }
