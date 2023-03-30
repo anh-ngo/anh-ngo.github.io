@@ -16,6 +16,8 @@ date:   2023-03-20
       <p>—At this point, I would focus on detecting voice to trigger an assigned visual at a person's position. It would be interesting to investigate how the conversation dynamic will influence and be influenced by the projected visuals coming from different positions. What would happen if people see how much they and others talk? Here, I am interested in digging into sociological research on conversation.</p>
       <p>—The next thing is that perhaps people can also influence the visuals with their hands, e.g. when they reach to a plate, their hand is "printed" on the table and slowly disappears. But it is more like a secondary thought if I continue this project further.</p>
       <p>—Visuals will change with the progress of the dining experience. For example, how will the visuals transform to tell a story from the beginning to the end of a dinner? From when people chat while waiting for food to eating the main dishes and then chatting again after the meal. From excitement and curiosity to enjoying and then relaxing.</p>
+      <h1>Week 5: Mar 27/3 — 4/2 TouchDesigner tutorials</h1>
+      <p style="font-style: italic">Goals: Learn how to make audioreactive visuals and explore different generative art styles in TouchDesigner</p>
       <p style="margin-bottom: 50px;">To be continue...</p>
     </div>
   </div>
@@ -27,6 +29,7 @@ date:   2023-03-20
     <img src="{{site.baseurl}}/assets/img/embodied-interaction/null6.JPG" alt="">
     <img src="{{site.baseurl}}/assets/img/embodied-interaction/null1.JPG" alt="">
     <img src="{{site.baseurl}}/assets/img/embodied-interaction/bg.JPG" alt="">
+    <img src="{{site.baseurl}}/assets/img/embodied-interaction/sketch-2.jpeg" alt="">
     </div>
   </div>
 </div>
