@@ -1,25 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Anh Ngo</title>
-    <link rel="stylesheet" href="/assets/style.css">
-</head>
-
-<body>
-
-    <div id="content-wrapper">
-        <div id="sidebar">
-            <div class="col">
-                <div class="text-wrapper">
-                    <p><a href="/embodied-interaction">{return}</a>
-                </div>
-            </div>
-        </div>
-
-        <div id="content-container">
+I"ð<div id="content-container">
   <div class="col w-45">
     <div class="text-wrapper">
       <p class="bold">Project Development Process</p>
@@ -47,22 +26,7 @@
     <img src="/assets/img/embodied-interaction/bg.jpeg" alt="" />
     <p>Img 1-3. Visual experiments on TouchDesigner</p>
     <img src="/assets/img/embodied-interaction/sketch-2.jpeg" alt="" />
-    <p>Img 4. Concept development sketches</p>
     </div>
   </div>
 </div>
-
-
-    </div>  
-
-    <div id="footer">
-        <div id="contact-links">
-          <div class="col w-40 to-left"><a href="mailto: thuyanhngo259@gmail.com">Email &#8599;&#xFE0E;</a>&nbsp;</div>
-          <div class="col w-40 to-left"><a href="https://www.linkedin.com/in/anh-nnt?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BE9acgaKBRRGhNRVvgQtdbQ%3D%3D" target="_blank">LinkedIn &#8599;&#xFE0E;</a>&nbsp;</div>
-          <div class="col w-40 to-left"><a href="https://www.instagram.com/aanh.ngoo/?hl=en" target="_blank">Instagram &#8599;&#xFE0E;</a></div>
-        </div> 
-          <div class="to-left mobile-hide">@ Anh Ngo 2022</div>
-    </div>
-
-    <script src="assets/main.js"></script>
-</body>
+:ET
