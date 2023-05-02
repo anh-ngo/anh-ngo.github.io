@@ -1,13 +1,7 @@
----
-layout: embodied-interaction
-title:  "2. Project Proposal"
-date:   2023-01-22
----
-
-<div id="content-container">
+I"U<div id="content-container">
   <div class="col w-45">
     <div class="text-wrapper">
-      <p class="bold">Final project proposal</p>
+      <p class="bold">2. Final project research and proposal</p>
       <p class="caption">Last updated: 9 Mar 2023</p>
       <h1>Table as a generative and interactive space</h1>
       <p style="font-style: italic">"To live together in the world means essentially that a world of things is between those who have it in common, as a table is located between those who sit around it; the world, like every in-between, relates and separates men at the same time. — Hannah Arendt, The Human Condition"</p>
@@ -21,7 +15,7 @@ date:   2023-01-22
       <p>Sound and hand gestures are possible inputs on top of my head to control the visual outputs projected on the table surface. For example, sound from people's talks comes into a mic, then is analysed and used to move and form the visual projection. If explored further, people's locations and the tableware could also be detected to create more interesting interaction, or people can use the table as a musical instrument.</p>
       <p>Tools: TouchDesigner, Multichannel Mic, Projector, Camera</p>
       <h1>Some examples (artworks/projects that are similar to what you would like to do)</h1>
-      <p>There are many examples of tangible interface that utilize a table surface. The <a href="https://www.youtube.com/watch?v=8Mc3g2qbBJo&ab_channel=Dezeen">IKEA's digital kitchen table</a> first came to my mind. The closest examples that I found might come from food design projects like the <a href="http://www.juliehhh.com/portfolio/hermes-dinner-moscou-2019/">Hermes Dinner Moscou (2019)</a> and <a href="https://mymodernmet.com/teamlab-sagaya-interactive-restaurants/">teamLab's work for the Sagaya restaurant (2017)</a>. Yet, my interest is not so much about creating a fancy and exclusive dining experience, but more about exploring what kinds of interaction can emerge with what's available at the table.</p>
+      <p>There are many examples of tangible interface that utilize a table surface. The <a href="https://www.youtube.com/watch?v=8Mc3g2qbBJo&amp;ab_channel=Dezeen">IKEA's digital kitchen table</a> first came to my mind. The closest examples that I found might come from food design projects like the <a href="http://www.juliehhh.com/portfolio/hermes-dinner-moscou-2019/">Hermes Dinner Moscou (2019)</a> and <a href="https://mymodernmet.com/teamlab-sagaya-interactive-restaurants/">teamLab's work for the Sagaya restaurant (2017)</a>. Yet, my interest is not so much about creating a fancy and exclusive dining experience, but more about exploring what kinds of interaction can emerge with what's available at the table.</p>
       <h1>References:</h1>
       <p>• Higham-Stainton, R. (n.d.). AROUND THE PROTEAN TABLE: From Judy Chicago to changing notions of Digital Era Connection. PIN-UP. https://archive.pinupmagazine.org/articles/essay-around-the-table-humanity-shared-space</p>
       <p>• Sato, O. (1993). The Art Of Computer Designing: A Black and White Approach. Internet Archive. https://archive.org/details/satoArtOfComputerDesigning/page/75/mode/2up</p>
@@ -30,14 +24,15 @@ date:   2023-01-22
   </div>
   <div class="col w-45">
     <div class="img-wrapper">
-    <img src="{{site.baseurl}}/assets/img/embodied-interaction/collage.png" alt="">
+    <img src="/assets/img/embodied-interaction/collage.png" alt="" />
     <p>Img 1. Collage of my personal table memories</p>
-    <img src="{{site.baseurl}}/assets/img/embodied-interaction/judy-chicago.jpeg" alt="">
+    <img src="/assets/img/embodied-interaction/judy-chicago.jpeg" alt="" />
     <p>Img 2. Thursday Night Potluck with “The Dinner Party” Workers, Judy Chicago, 1978</p>
-    <img src="{{site.baseurl}}/assets/img/embodied-interaction/textile.png" alt="">
+    <img src="/assets/img/embodied-interaction/textile.png" alt="" />
     <p>Img 3. Sensory Stitching, 2022</p>
-    <img src="{{site.baseurl}}/assets/img/embodied-interaction/sketch.jpeg" alt="">
+    <img src="/assets/img/embodied-interaction/sketch.jpeg" alt="" />
     <p>Img 4. Some idea sketches</p>
     </div>
   </div>
 </div>
+:ET
