@@ -1,13 +1,13 @@
 ---
 layout: embodied-interaction
-title:  "2. Project Proposal"
+title:  "2. Research on the project idea"
 date:   2023-01-22
 ---
 
 <div id="content-container">
   <div class="col w-45">
     <div class="text-wrapper">
-      <p class="bold">Final project proposal</p>
+      <p class="bold">2. Final project research and proposal</p>
       <p class="caption">Last updated: 9 Mar 2023</p>
       <h1>Table as a generative and interactive space</h1>
       <p style="font-style: italic">"To live together in the world means essentially that a world of things is between those who have it in common, as a table is located between those who sit around it; the world, like every in-between, relates and separates men at the same time. — Hannah Arendt, The Human Condition"</p>
