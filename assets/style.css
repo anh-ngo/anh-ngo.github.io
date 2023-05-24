@@ -279,19 +279,16 @@ a {
         flex-direction: row-reverse;
         flex-wrap: wrap;
         transform: translate(var(--gap), 0);
-        overflow: scroll;
     }
 
     #content-container > .col {
         width: 50%;
         margin: 0;
         padding: 0;
-        overflow: scroll;
     }
 
     #content-container > .w-10, #content-container > .w-20, #content-container > .w-25, #content-container > .w-33, #content-container > .w-40, #content-container > .w-45, #content-container > .w-50, #content-container > .w-60, #content-container > .w-80, #content-container > .w-90 {
         width: 100% !important;
-        overflow: scroll;
     }
 
     #sidebar {
@@ -305,10 +302,10 @@ a {
         transform: translate(var(--gap), 0);
         background-color: #ffffff;
     }
-
+/* 
     .img-wrapper{
         overflow: scroll;
-    }
+    } */
 
     #contact-links {
         padding: 10px;
